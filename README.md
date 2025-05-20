@@ -39,5 +39,6 @@
 Make sure you're inside your pipenv shell:
 
 ```bash
+pipenv install
 pipenv shell
 python -m unittest discover tests
